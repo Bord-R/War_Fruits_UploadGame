@@ -13,6 +13,7 @@ space - shoot super;
 
 ctrl + shift - code menu; 
 
+F - parry
 
 Codes:
 
@@ -36,6 +37,8 @@ I_LOVE...06 - Dead;
 
 HELP_ME07 - Noob mode; 
 
+
+OMG_GRAPES08 - full life;
 
 
 -Noob mode
@@ -62,3 +65,5 @@ HELP_ME07 - Noob mode;
 
 7 - Noob mode; 
 
+
+8 - Full Life;
